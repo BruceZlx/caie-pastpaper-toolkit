@@ -1,0 +1,94 @@
+{
+  "_comment": "科目登记（paper_pipeline.py 的唯一科目清单）。",
+  "subjects": {
+    "9618": {
+      "code": "9618",
+      "name": "Computer Science",
+      "zh": "计算机科学",
+      "level": "AS & A Level",
+      "data_dir": "9618（CS）",
+      "source": {
+        "kind": "papacambridge",
+        "slug": "as-and-a-level-computer-science-9618"
+      },
+      "caie_page": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-computer-science-9618/",
+      "paper_names": {
+        "1": "Theory Fundamentals",
+        "2": "Fundamental Problem-solving & Programming Skills",
+        "3": "Advanced Theory",
+        "4": "Practical"
+      }
+    },
+    "9701": {
+      "code": "9701",
+      "name": "Chemistry",
+      "zh": "化学",
+      "level": "AS & A Level",
+      "data_dir": "9701（化学）",
+      "source": {
+        "kind": "papacambridge",
+        "slug": "as-and-a-level-chemistry-9701"
+      },
+      "caie_page": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-chemistry-9701/",
+      "paper_names": {
+        "1": "Multiple Choice",
+        "2": "AS Level Structured Questions",
+        "3": "Advanced Practical Skills",
+        "4": "A Level Structured Questions",
+        "5": "Planning, Analysis & Evaluation"
+      }
+    },
+    "9702": {
+      "code": "9702",
+      "name": "Physics",
+      "zh": "物理",
+      "level": "AS & A Level",
+      "data_dir": "9702（物理）",
+      "source": {
+        "kind": "papacambridge",
+        "slug": "as-and-a-level-physics-9702"
+      },
+      "caie_page": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-physics-9702/",
+      "paper_names": {
+        "1": "Multiple Choice",
+        "2": "AS Level Structured Questions",
+        "3": "Advanced Practical Skills",
+        "4": "A Level Structured Questions",
+        "5": "Planning, Analysis & Evaluation"
+      }
+    },
+    "9709": {
+      "code": "9709",
+      "name": "Mathematics",
+      "zh": "数学",
+      "level": "AS & A Level",
+      "data_dir": "9709（数学）",
+      "source": {
+        "kind": "papacambridge",
+        "slug": "as-and-a-level-mathematics-9709"
+      },
+      "caie_page": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-mathematics-9709/",
+      "paper_names": {
+        "1": "Pure Mathematics 1",
+        "2": "Pure Mathematics 2",
+        "3": "Pure Mathematics 3",
+        "4": "Mechanics",
+        "5": "Probability & Statistics 1",
+        "6": "Probability & Statistics 2"
+      }
+    },
+    "9708": {
+      "code": "9708",
+      "name": "Economics",
+      "zh": "经济学",
+      "level": "AS & A Level",
+      "data_dir": "9708（经济学）",
+      "source": {
+        "kind": "papacambridge",
+        "slug": "as-and-a-level-economics-9708"
+      },
+      "caie_page": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-international-as-and-a-level-economics-9708/",
+      "paper_names": {}
+    }
+  }
+}

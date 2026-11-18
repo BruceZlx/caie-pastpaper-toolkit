@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# 编译产物（bin/ocr 由 swiftc 现场编译）
+bin/ocr
+
+# ===== 题库运行时数据与产物（用户自建，不入库） =====
+# 整卷 PDF 库与大纲
+[0-9][0-9][0-9][0-9]（*）/
+syllabus/
+notes/
+
+# 分类数据
+tags_[0-9][0-9][0-9][0-9]/
+classified_*.json
+topics_*.json
+auto_classify_report_*.json
+auto_classify_report_*.md
+
+# 生成的站点与索引（gen_index/gen_topics/gen_search 产物）
+index*.html
+papers_data_*.json
+papers_data_*.js
+topics_data_*.js
+search_data_*.js
+notes.html
+
+# 管线/服务全部状态
+data/
+
+# 组卷样张与临时输出
+data/mock_samples/
+mock_*.pdf
